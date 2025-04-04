@@ -1,0 +1,2 @@
+defmodule Counter do
+end
